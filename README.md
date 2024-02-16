@@ -65,8 +65,6 @@ Here are some ideas to get you started:
 	</table>
 </div>
 
-## Others
-
 
 ## ☁️ Cloud
 <div>
@@ -78,11 +76,6 @@ Here are some ideas to get you started:
 		</tr>
 	</table>
 <div>
-
-
-
-
-
 
 
 ## CMS
