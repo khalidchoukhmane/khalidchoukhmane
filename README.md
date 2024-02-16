@@ -66,18 +66,6 @@ Here are some ideas to get you started:
 </div>
 
 
-## ☁️ Cloud
-<div>
-	<table>
-		<tr>
-			<td><code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"></code></td>
-			<td><code> <img height="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"> </code></td>
-			<td><code><img height="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"> </code></td>
-		</tr>
-	</table>
-<div>
-
-
 ## CMS
 <div>
 	<table>
