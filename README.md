@@ -17,14 +17,7 @@ Here are some ideas to get you started:
 
 ## Back-end
 
-<div>
-	<table>
-		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code></td>
-			<td><code><img height="50" src="https://i.postimg.cc/SxZKFqWs/Laravel-Logo.png" alt="Laravel" title="Laravel"></code></td>
-		</tr>
-	</table>
-</div>
+
 <div>
 	<table>
 		<tr>
@@ -35,6 +28,14 @@ Here are some ideas to get you started:
 			<td><code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate"></code></td>
  			<td><code><img height="50" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="Lombok" title="Lombok"></code></td>
  			<td><code><img height="50" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="Tomcat" title="Tomcat"></code></td>
+		</tr>
+	</table>
+</div>
+<div>
+	<table>
+		<tr>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code></td>
+			<td><code><img height="50" src="https://i.postimg.cc/SxZKFqWs/Laravel-Logo.png" alt="Laravel" title="Laravel"></code></td>
 		</tr>
 	</table>
 </div>
