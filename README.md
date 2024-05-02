@@ -15,9 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## data analyst
+<div>
+	<table>
+		<tr>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code></td>
+		</tr>
+	</table>
+</div>
+
+<div>
+	<table>
+		<tr>
+      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
+		<td><code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgresSQL" title="PostgresSQL"></code></td>
+			<td><code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle"></code></td>
+		</tr>
+	</table>
+</div>
+
 ## Back-end
-
-
 <div>
 	<table>
 		<tr>
@@ -40,13 +57,7 @@ Here are some ideas to get you started:
 	</table>
 </div>
 
-<div>
-	<table>
-		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code></td>
-		</tr>
-	</table>
-</div>
+
 
 
 ## Font-end
@@ -76,16 +87,6 @@ Here are some ideas to get you started:
 	</table>
 </div>
 
-## Databases
-<div>
-	<table>
-		<tr>
-      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
-		<td><code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgresSQL" title="PostgresSQL"></code></td>
-			<td><code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle"></code></td>
-		</tr>
-	</table>
-</div>
 
 ## DevOps
 <div>
