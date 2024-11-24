@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ## data analyst
-<!--div>
+<div>
 	<table>
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code></td>
 		</tr>
 	</table>
-</div-->
+</div>
 
-<!--div>
+<div>
 	<table>
 		<tr>
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 			<td><code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle"></code></td>
 		</tr>
 	</table>
-</div-->
+</div>
 
 ## Back-end
-<!--div>
+<div>
 	<table>
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code></td>
@@ -47,21 +47,21 @@ Here are some ideas to get you started:
  			<td><code><img height="50" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="Tomcat" title="Tomcat"></code></td>
 		</tr>
 	</table>
-</div-->
-<!--div>
+</div>
+<div>
 	<table>
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code></td>
 			<td><code><img height="50" src="https://i.postimg.cc/SxZKFqWs/Laravel-Logo.png" alt="Laravel" title="Laravel"></code></td>
 		</tr>
 	</table>
-</div-->
+</div>
 
 
 
 
 ## Font-end
-<!--div>
+<div>
 	<table>
 		<tr>								
 	<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code></td>
@@ -74,31 +74,31 @@ Here are some ideas to get you started:
 	<td><code><img height="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwindCss" title="tailwindCss"></code></td>
 		</tr>
 	</table>
-</div-->
+</div>
 
 
 ## CMS
-<!--div>
+<div>
 	<table>
 		<tr>
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress" title="Wordpress"/></code></td>
 		</tr>
 	</table>
-</div-->
+</div>
 
 
 ## DevOps
-<!--div>
+<div>
 	<table>
 		<tr>
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code></td>
 		</tr>
 	</table-->
-</div-->
+</div>
 
 ## IDE
-<!--div>
+<div>
 	<table>
 		<tr>
      			 <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ"/></code></td>
@@ -106,4 +106,4 @@ Here are some ideas to get you started:
 			<td><code><img height="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"	alt="Postman" title="Postman"></code></td>
 		</tr>
 	</table>
-</div-->
+</div>
